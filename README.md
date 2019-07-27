@@ -13,11 +13,12 @@
  - Total Samples in DataSet: 284,807. Number of Fraudalent transactions: 492 (0.172%) of all transactions. Represented by "Class" Feature
 
 ## TODO:
-- get XGBoost working
+- [x] get XGBoost working
 - create baseline model comparison dataframe with confusion matrix results of all the models
 - do AUPRC vs AUC-ROC comparison / analysis
+- do randomundersampler (but better version)
 - do oversampling method for 5k, 10k, 100k, equal parity
-- re-run the same algos, see how they change over time
+- re-run the same algos, see how they change over time with more data, or as the data changes
 - visualize the efficacy of each model with more time 
 
 ## Helpful Articles:
