@@ -14,7 +14,7 @@
 
 ## TODO:
 - [x] get XGBoost working
-- create baseline model comparison dataframe with confusion matrix results of all the models
+- [x] create baseline model comparison dataframe with confusion matrix results of all the models
 - do AUPRC vs AUC-ROC comparison / analysis
 - do randomundersampler (but better version)
 - do oversampling method for 5k, 10k, 100k, equal parity
@@ -22,6 +22,7 @@
 - visualize the efficacy of each model with more time 
 
 ## Helpful Articles:
+
 - Kaggle Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3
 - Useful for understanding SMOTE and why we need to oversample on imbalanced datasets: https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9 
 - walkthrough of same dataset and analysis of different models: https://towardsdatascience.com/detecting-credit-card-fraud-using-machine-learning-a3d83423d3b8
@@ -31,3 +32,4 @@
 - using pandas to create training sets for models: https://www.ritchieng.com/pandas-scikit-learn/
 - SVM in pandas: http://benalexkeen.com/support-vector-classifiers-in-python-using-scikit-learn/
 - Getting XGBoost to work: https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
+- understanding ML evaluation metrics https://medium.com/x8-the-ai-community/understanding-ml-evaluation-metrics-precision-recall-2b3fb915b666
