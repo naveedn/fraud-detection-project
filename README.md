@@ -33,3 +33,4 @@
 - SVM in pandas: http://benalexkeen.com/support-vector-classifiers-in-python-using-scikit-learn/
 - Getting XGBoost to work: https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
 - understanding ML evaluation metrics https://medium.com/x8-the-ai-community/understanding-ml-evaluation-metrics-precision-recall-2b3fb915b666
+- AU-PRC vs. AUROC: https://stats.stackexchange.com/questions/338826/auprc-vs-auc-roc#338833
